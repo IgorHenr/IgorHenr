@@ -1,6 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
 
-<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/IgrR-HrQ/IgrR-HrQ/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd](https://lh4.googleusercontent.com/Ce8DMsmO-JQxI89R3Q-Lx9FJMzHKrnFtJOCmZubDzUcZKGXOQ4hRlt_pXoesA-WysBjVz5YSXV0rwHx1i3_QlGtOEMIMNQk-eparuS1xTwBiZHRjI_Mg_lFJusBXmu79rQ=w1280)" />
-&nbsp;&nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Igor+Henrique+Alves+Barboza;I%27m+20+years+old;I+am+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">I'm dedicated to solving problems using technology. <br><br> The discovery of programming for me was something incredible, since then I have always been looking to learn more about each subject. </strong> and use them to create high quality solutions. Today, I'm a <strong>back-end developer</strong> focused on learning every day.</p>&nbsp;
 
@@ -55,7 +55,14 @@
 <a href="https://www.linkedin.com/in/igor-henrique-249417299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
  
+#### Stats:
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgrR-HrQ&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="Igor Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgrR-HrQ&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
+</div>
+
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
