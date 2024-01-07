@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Igor+Henrique+Alves+Barboza;I%27m+20+years+old;I+am+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">I'm dedicated to solving problems using technology. <br><br> The discovery of programming for me was something incredible, since then I have always been looking to learn more about each subject. </strong> and use them to create high quality solutions. Today, I'm a <strong>back-end developer</strong> focused on learning every day.</p>&nbsp;
+<p align="center">I'm dedicated to solving problems using technology. <br><br> The discovery of programming for me was something incredible, since then I have always been looking to learn more about each subject. </strong> and use them to create high quality solutions. </p>&nbsp;
 
 
  
